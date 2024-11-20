@@ -34,7 +34,3 @@ The Health Pedia Quiz Plugin is a custom WordPress solution designed for creatin
 ## License
 
 This plugin is licensed under the MIT License. See `LICENSE` for details.
-
-## Contact
-
-For questions or contributions, feel free to contact [Your Email or GitHub Link].
